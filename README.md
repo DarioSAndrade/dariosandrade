@@ -148,7 +148,7 @@ Tenho mais de duas décadas de experiência na área de tecnologia, liderando ti
     title="Angular"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/angular-original.svg" 
+    src="https://cdn.iconscout.com/icon/free/png-512/free-angular-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-1-pack-logos-icons-3029847.png?f=webp&w=512" 
 />
 <img 
     align="left" 
@@ -168,11 +168,38 @@ Tenho mais de duas décadas de experiência na área de tecnologia, liderando ti
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Visual Code" 
+    title="Visual Code"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.iconscout.com/icon/free/png-512/free-visual-studio-code-logo-icon-download-in-svg-png-gif-file-formats--html-coding-programming-development-microsoft-logos-pack-icons-1583105.png?f=webp&w=512" 
+/>
+
+<img 
+    align="left" 
+    alt="Power BI" 
+    title="Power BI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.iconscout.com/icon/free/png-512/free-power-bi-logo-icon-download-in-svg-png-gif-file-formats--microsoft-software-brand-pack-logos-icons-2701891.png?f=webp&w=512" 
+/>
+
+<img 
+    align="left" 
+    alt="Jenkins" 
+    title="Jenkins"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.iconscout.com/icon/free/png-512/free-jenkins-icon-download-in-svg-png-gif-file-formats--brand-company-logo-world-logos-vol-3-pack-icons-282385.png?f=webp&w=512" 
+/>
+
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.iconscout.com/icon/free/png-512/free-mysql-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-5-pack-logos-icons-2945040.png?f=webp&w=512" 
 />
 
 <br/>
