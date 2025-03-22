@@ -21,7 +21,7 @@ Tenho mais de duas décadas de experiência na área de tecnologia, liderando ti
 ## 🌐 Conecte-se comigo
 
 [💼 LinkedIn](https://www.linkedin.com/in/dariosandrade/)  
-📬 contato via [email](mailto:dario@email.com) *(ajustar para o e-mail que desejar)*
+📬 contato via [email](mailto:darioandrade@outlook.com)
 
 ---
 
