@@ -120,11 +120,11 @@ Tenho mais de duas décadas de experiência na área de tecnologia, liderando ti
 />
 <img 
     align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
+    alt="Wordpress" 
+    title="Wordpress"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/Wordpress-original.svg" 
 />
 <img 
     align="left" 
