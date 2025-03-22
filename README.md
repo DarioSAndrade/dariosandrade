@@ -84,7 +84,7 @@ Tenho mais de duas décadas de experiência na área de tecnologia, liderando ti
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
