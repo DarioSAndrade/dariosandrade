@@ -42,8 +42,8 @@ Tenho mais de duas décadas de experiência na área de tecnologia, liderando ti
 
 <img 
     align="left" 
-    alt="SASS" 
-    title="SASS"
+    alt="EMAIL" 
+    title="EMAIL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.iconscout.com/icon/free/png-512/free-microsoft-outlook-logo-icon-download-in-svg-png-gif-file-formats--logos-pack-icons-1583117.png?f=webp&w=512" 
@@ -80,6 +80,11 @@ Tenho mais de duas décadas de experiência na área de tecnologia, liderando ti
             src="https://custom-icon-badges.demolab.com/github/followers/dariosandrade?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <a href="https://github.com/dariosandrade/Simple-View-Counter">
+    <img 
+        alt="views" 
+        title="GitHub profile views" 
+        src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
 
 ---
