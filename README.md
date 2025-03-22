@@ -7,7 +7,9 @@ Tenho mais de duas décadas de experiência na área de tecnologia, liderando ti
 
 🔭 **Neste GitHub**, minha proposta vai além de apresentar projetos. Quero transformar este espaço em um ponto de apoio para iniciantes e profissionais que ainda não se sentem à vontade com a plataforma. Se você chegou aqui buscando aprender mais sobre Git, GitHub ou como estruturar um portfólio, você está no lugar certo.
 
-"Tem muita experiência que não cabe em uploads."
+> 💬 "Tem muita experiência que não cabe em uploads."  
+> — Dario S. Andrade
+
 
 ---
 
