@@ -80,11 +80,6 @@ Tenho mais de duas décadas de experiência na área de tecnologia, liderando ti
             src="https://custom-icon-badges.demolab.com/github/followers/dariosandrade?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://github.com/dariosandrade/Simple-View-Counter">
-    <img 
-        alt="views" 
-        title="GitHub profile views" 
-        src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
 
 ---
