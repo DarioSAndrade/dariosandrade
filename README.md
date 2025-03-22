@@ -47,7 +47,7 @@ Tenho mais de duas décadas de experiência na área de tecnologia, liderando ti
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.iconscout.com/icon/free/png-512/free-microsoft-outlook-logo-icon-download-in-svg-png-gif-file-formats--logos-pack-icons-1583117.png?f=webp&w=512" 
-/> [email](mailto:darioandrade@outlook.com)
+/> (mailto:darioandrade@outlook.com)
 
 ---
 
