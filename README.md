@@ -84,7 +84,7 @@ Tenho mais de duas décadas de experiência na área de tecnologia, liderando ti
     <img 
         alt="views" 
         title="GitHub profile views" 
-        src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+        src="https://freshidea.com/jonah/app/dariosandrade-profile-views"/></a>
 </p>
 
 ---
