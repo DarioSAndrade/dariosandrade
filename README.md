@@ -124,7 +124,7 @@ Tenho mais de duas décadas de experiência na área de tecnologia, liderando ti
     title="Wordpress"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/Wordpress-original.svg" 
+    src="https://cdn.iconscout.com/icon/free/png-512/free-wordpress-logo-icon-download-in-svg-png-gif-file-formats--open-source-software-tool-brand-logos-pack-icons-2056049.png?f=webp&w=512" 
 />
 <img 
     align="left" 
