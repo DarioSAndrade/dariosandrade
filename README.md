@@ -108,7 +108,7 @@ Tenho mais de duas décadas de experiência na área de tecnologia, liderando ti
     title="Drupal"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/Drupal-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/drupal.svg" 
 />
 <img 
     align="left" 
