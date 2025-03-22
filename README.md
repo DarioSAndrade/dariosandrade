@@ -22,7 +22,14 @@ Tenho mais de duas décadas de experiência na área de tecnologia, liderando ti
 
 ## 🌐 Conecte-se comigo
 
-[💼 LinkedIn](https://www.linkedin.com/in/dariosandrade/)  
+[<img 
+    align="left" 
+    alt="SASS" 
+    title="SASS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-logo-icon-download-in-svg-png-gif-file-formats--brand-company-business-brands-pack-logos-icons-2284952.png?f=webp&w=512" 
+/> LinkedIn](https://www.linkedin.com/in/dariosandrade/)  
 📬 contato via [email](mailto:darioandrade@outlook.com)
 
 ---
@@ -200,6 +207,15 @@ Tenho mais de duas décadas de experiência na área de tecnologia, liderando ti
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.iconscout.com/icon/free/png-512/free-mysql-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-5-pack-logos-icons-2945040.png?f=webp&w=512" 
+/>
+
+<img 
+    align="left" 
+    alt="Flutter" 
+    title="Flutter"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.iconscout.com/icon/free/png-512/free-flutter-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-3-pack-logos-icons-2944876.png?f=webp&w=512" 
 />
 
 <br/>
