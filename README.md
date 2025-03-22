@@ -104,11 +104,11 @@ Tenho mais de duas décadas de experiência na área de tecnologia, liderando ti
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
+    alt="Drupal" 
+    title="Drupal"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/Drupal-original.svg" 
 />
 <img 
     align="left" 
