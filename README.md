@@ -49,7 +49,7 @@ Tenho mais de duas décadas de experiência na área de tecnologia, liderando ti
     src="https://cdn.iconscout.com/icon/free/png-512/free-microsoft-outlook-logo-icon-download-in-svg-png-gif-file-formats--logos-pack-icons-1583117.png?f=webp&w=512" 
 /> <a href="mailto:darioandrade@outlook.com">E-mail
 
----
+
 
 <p align="left">
     <a href="https://www.youtube.com/@DarioAndrade?sub_confirmation=1">
