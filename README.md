@@ -24,13 +24,28 @@ Tenho mais de duas décadas de experiência na área de tecnologia, liderando ti
 
 [<img 
     align="left" 
-    alt="SASS" 
-    title="SASS"
+    alt="Linkedin" 
+    title="Linkedin"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-logo-icon-download-in-svg-png-gif-file-formats--brand-company-business-brands-pack-logos-icons-2284952.png?f=webp&w=512" 
 /> LinkedIn](https://www.linkedin.com/in/dariosandrade/)  
-📬 contato via [email](mailto:darioandrade@outlook.com)
+[<img 
+    align="left" 
+    alt="Instagram" 
+    title="Instagram"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.iconscout.com/icon/free/png-512/free-instagram-logo-icon-download-in-svg-png-gif-file-formats--social-media-pack-logos-icons-1583142.png?f=webp&w=512" 
+/> LinkedIn](https://www.linkedin.com/in/dariosandrade/) 
+[<img 
+    align="left" 
+    alt="SASS" 
+    title="SASS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.iconscout.com/icon/free/png-512/free-microsoft-outlook-logo-icon-download-in-svg-png-gif-file-formats--logos-pack-icons-1583117.png?f=webp&w=512" 
+/> LinkedIn] contato via [email](mailto:darioandrade@outlook.com)
 
 ---
 
