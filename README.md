@@ -28,7 +28,7 @@ Tenho mais de duas décadas de experiência na área de tecnologia, liderando ti
 ---
 
 <p align="left">
-    <a href="https://www.youtube.com/@DarioAndrade?sub_confirmation=1">
+    <a href="https://www.youtube.com/@DarioAndrade?sub_confirmation=1" target="_blank">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
