@@ -40,14 +40,14 @@ Tenho mais de duas décadas de experiência na área de tecnologia, liderando ti
     src="https://cdn.iconscout.com/icon/free/png-512/free-instagram-logo-icon-download-in-svg-png-gif-file-formats--social-media-pack-logos-icons-1583142.png?f=webp&w=512" 
 /> Instagram](https://www.instagram.com/dariotheguide) 
 
-[<img 
+<img 
     align="left" 
     alt="SASS" 
     title="SASS"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.iconscout.com/icon/free/png-512/free-microsoft-outlook-logo-icon-download-in-svg-png-gif-file-formats--logos-pack-icons-1583117.png?f=webp&w=512" 
-/> (mailto:darioandrade@outlook.com)
+/> mailto:darioandrade@outlook.com
 
 ---
 
