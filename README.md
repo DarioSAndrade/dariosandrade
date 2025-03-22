@@ -28,7 +28,7 @@ Tenho mais de duas décadas de experiência na área de tecnologia, liderando ti
 ---
 
 <p align="left">
-    <a href="https://www.youtube.com/@DarioAndrade?sub_confirmation=1" target="_blank">
+    <a href="https://www.youtube.com/@DarioAndrade?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
@@ -144,11 +144,11 @@ Tenho mais de duas décadas de experiência na área de tecnologia, liderando ti
 />
 <img 
     align="left" 
-    alt="Laravel" 
-    title="Laravel"
+    alt="Angular" 
+    title="Angular"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/angular-original.svg" 
 />
 <img 
     align="left" 
