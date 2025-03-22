@@ -108,7 +108,7 @@ Tenho mais de duas décadas de experiência na área de tecnologia, liderando ti
     title="Drupal"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/drupal.svg" 
+    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/drupal.svg](https://cdn.iconscout.com/icon/free/png-512/free-drupal-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-language-pack-logos-icons-1175225.png?f=webp&w=512)" 
 />
 <img 
     align="left" 
