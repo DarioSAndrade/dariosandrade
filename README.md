@@ -254,16 +254,7 @@ Tenho mais de duas décadas de experiência na área de tecnologia, liderando ti
   />
 </p>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+💬 "A experiência não se resume ao que mostramos online, mas ao que construímos com propósito e compartilhamos com generosidade."  
 
-> 💬 "A experiência não se resume ao que mostramos online, mas ao que construímos com propósito e compartilhamos com generosidade."  
-> — Dario S. Andrade
     
 
