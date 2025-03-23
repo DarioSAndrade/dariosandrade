@@ -252,8 +252,6 @@ Tenho mais de duas décadas de experiência na área de tecnologia, liderando ti
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=dariosandrade&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br" 
   />
-  
 </p>
 
-> > 💬 "A experiência não se resume ao que mostramos online, mas ao que construímos com propósito e compartilhamos com generosidade."  
-> — Dario S. Andrade
+
