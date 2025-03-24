@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Dario S. Andrade
+# 👋 Olá! Eu sou o Dario Andrade
 
 🚀 Tech Enthusiast | UX/UI Designer | Software Technical Leader  
 💡 Apaixonado por tecnologia, design centrado no usuário e soluções que fazem a diferença.
