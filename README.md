@@ -245,13 +245,19 @@ Tenho mais de duas décadas de experiência na área de tecnologia, liderando ti
 ### 📊 Estatísticas
 
 <p>
-  <img 
+    <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=dariosandrade&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br" 
-  />
+    />
+    <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    />
 </p>
 
 💬 "A experiência não se resume ao que mostramos online, mas ao que construímos com propósito e compartilhamos com generosidade."  
