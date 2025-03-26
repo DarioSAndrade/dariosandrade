@@ -265,6 +265,9 @@ Tenho mais de duas décadas de experiência na área de tecnologia, liderando ti
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
 <p>
 💬 "A experiência não se resume ao que mostramos online, mas ao que construímos com propósito e compartilhamos com generosidade."  
 </p>
