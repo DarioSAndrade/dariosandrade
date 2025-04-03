@@ -19,7 +19,7 @@ Tenho mais de duas décadas de experiência na área de tecnologia, liderando ti
 - Projetos reais e estudos de caso compartilháveis
 - Um espaço para **trocar ideias, evoluir juntos e desmistificar o GitHub**
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=DarioSAndrade&label=Visualizações+no+perfil&color=6f42c1&style=for-the-badge" alt="Contador de visitas no perfil" />
 </p>
 
