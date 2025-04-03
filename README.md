@@ -262,5 +262,5 @@ Tenho mais de duas décadas de experiência na área de tecnologia, liderando ti
 
 <div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   <h3>Visitor Count</h3>
-  <img src="https://profile-counter.glitch.me/murapadev/count.svg" alt="Profile Visitor Count" />
+  <img src="https://profile-counter.glitch.me/dariosandrade/count.svg" alt="Profile Visitor Count" />
 </div>
