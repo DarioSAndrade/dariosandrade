@@ -259,3 +259,8 @@ Tenho mais de duas décadas de experiência na área de tecnologia, liderando ti
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariosandrade&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=10" 
     />
 </p>
+
+<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <h3>Visitor Count</h3>
+  <img src="https://profile-counter.glitch.me/murapadev/count.svg" alt="Profile Visitor Count" />
+</div>
