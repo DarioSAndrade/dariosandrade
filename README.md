@@ -10,9 +10,6 @@ Tenho mais de duas décadas de experiência na área de tecnologia, liderando ti
 > 💬 "Tem muita experiência que não cabe em uploads."  
 > — Dario S. Andrade
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DarioSAndrade&label=Visualizações+no+perfil&color=6f42c1&style=for-the-badge" alt="Contador de visitas no perfil" />
-</p>
 ---
 
 ## 💬 O que você vai encontrar por aqui:
@@ -21,6 +18,10 @@ Tenho mais de duas décadas de experiência na área de tecnologia, liderando ti
 - **Boas práticas de UX/UI** e estruturação de projetos
 - Projetos reais e estudos de caso compartilháveis
 - Um espaço para **trocar ideias, evoluir juntos e desmistificar o GitHub**
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DarioSAndrade&label=Visualizações+no+perfil&color=6f42c1&style=for-the-badge" alt="Contador de visitas no perfil" />
+</p>
 
 ---
 
