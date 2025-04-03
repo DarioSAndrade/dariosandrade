@@ -259,4 +259,7 @@ Tenho mais de duas décadas de experiência na área de tecnologia, liderando ti
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariosandrade&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=10" 
     />
 </p>
-![Contador de Visitas](https://komarev.com/ghpvc/?username=DarioSAndrade&label=Visualizações&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DarioSAndrade&label=Visualizações+no+perfil&color=6f42c1&style=for-the-badge" alt="Contador de visitas no perfil" />
+</p>
+
