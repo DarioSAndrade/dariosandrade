@@ -264,5 +264,37 @@ Tenho mais de duas décadas de experiência na área de tecnologia, liderando ti
 ---
 
 📊 Estatísticas do GitHub
-<div align="center"> <table> <tr> <td align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dariosandrade&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br" alt="Estatísticas de GitHub de Dario Andrade" height="200" /> </td> <td align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariosandrade&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=10" alt="Tecnologias mais usadas" height="200" /> </td> </tr> </table> </div>
-<img src="https://github.com/DarioSAndrade/dariosandrade/blob/master/dario-assets/main/dariogit.png" alt="Deixe uma estrela" width="300"/>
+<div align="center" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 20px;">
+
+  <!-- Quadro de estatísticas -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=dariosandrade&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br" 
+    alt="Estatísticas de GitHub de Dario Andrade" 
+    height="200" 
+    style="max-width: 100%;"
+  />
+
+  <!-- Ilustração personalizada -->
+  <img 
+    src="https://github.com/DarioSAndrade/dariosandrade/blob/master/dario-assets/main/dariogit.png" 
+    alt="Deixe uma estrela" 
+    height="200"
+  />
+
+</div>
+
+<!-- Espaço entre os elementos -->
+<br>
+
+<div align="center">
+
+  <!-- Tecnologias mais usadas -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariosandrade&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=10" 
+    alt="Tecnologias mais usadas" 
+    height="200" 
+    style="max-width: 100%;"
+  />
+
+</div>
+
