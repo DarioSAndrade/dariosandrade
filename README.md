@@ -245,7 +245,7 @@ Tenho mais de duas décadas de experiência na área de tecnologia, liderando ti
 
 ---
 
-### ⭐ APOIE ESSE PORTFÓLIO
+### ⭐ Apoie esse portfólio
 
 <div align="center">
 
@@ -263,7 +263,7 @@ Tenho mais de duas décadas de experiência na área de tecnologia, liderando ti
 
 ---
 
-### 📊 ESTATÍSTICAS DO GITHUB
+### 📊 Estatísticas do github
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 30px;">
 
   <!-- Estatísticas -->
