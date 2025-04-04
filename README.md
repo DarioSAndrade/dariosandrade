@@ -264,14 +264,13 @@ Tenho mais de duas décadas de experiência na área de tecnologia, liderando ti
 ---
 
 📊 Estatísticas do GitHub
-<div align="center" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 20px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 30px;">
 
-  <!-- Quadro de estatísticas -->
+  <!-- Estatísticas -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=dariosandrade&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br" 
     alt="Estatísticas de GitHub de Dario Andrade" 
     height="200" 
-    style="max-width: 100%;"
   />
 
   <!-- Ilustração personalizada -->
@@ -283,7 +282,7 @@ Tenho mais de duas décadas de experiência na área de tecnologia, liderando ti
 
 </div>
 
-<!-- Espaço entre os elementos -->
+<!-- Espaçamento -->
 <br>
 
 <div align="center">
@@ -293,8 +292,6 @@ Tenho mais de duas décadas de experiência na área de tecnologia, liderando ti
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariosandrade&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=10" 
     alt="Tecnologias mais usadas" 
     height="200" 
-    style="max-width: 100%;"
   />
 
 </div>
-
