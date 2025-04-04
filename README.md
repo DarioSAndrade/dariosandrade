@@ -264,7 +264,7 @@ Tenho mais de duas décadas de experiência na área de tecnologia, liderando ti
 </p>
 
 ---
-### 📊 APOIE ESSE PORTFÓLIO
+### APOIE ESSE PORTFÓLIO
 
 <div align="center">
 
