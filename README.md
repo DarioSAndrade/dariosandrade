@@ -255,7 +255,7 @@ Tenho mais de duas décadas de experiência na área de tecnologia, liderando ti
 
 <p>Isso me ajuda a saber que estou no caminho certo e motiva a continuar partilhando conhecimento com a comunidade.</p>
 
-<a href="https://github.com/DarioSAndrade?tab=stars">
+<a href="https://github.com/DarioSAndrade">
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/DarioSAndrade?style=social" />
 </a>
 
