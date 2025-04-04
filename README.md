@@ -245,6 +245,24 @@ Tenho mais de duas décadas de experiência na área de tecnologia, liderando ti
 
 ---
 
+### APOIE ESSE PORTFÓLIO
+
+<div align="center">
+
+<img src="https://github.com/DarioSAndrade/dariosandrade/blob/master/dario-assets/main/star.png" alt="Deixe uma estrela" width="300"/>
+
+<h3>Se curtiu este conteúdo, dá uma ⭐ estrela lá em cima!</h3>
+
+<p>Isso me ajuda a saber que estou no caminho certo e motiva a continuar partilhando conhecimento com a comunidade.</p>
+
+<a href="https://github.com/DarioSAndrade" target="_blank">
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/DarioSAndrade?style=social" />
+</a>
+
+</div>
+
+---
+
 ### 📊 Estatísticas
 
 <p>
@@ -262,23 +280,6 @@ Tenho mais de duas décadas de experiência na área de tecnologia, liderando ti
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariosandrade&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=10" 
     />
 </p>
-
----
-### APOIE ESSE PORTFÓLIO
-
-<div align="center">
-
-<img src="https://github.com/DarioSAndrade/dariosandrade/blob/master/dario-assets/main/star.png" alt="Deixe uma estrela" width="300"/>
-
-<h3>Se curtiu este conteúdo, dá uma ⭐ estrela lá em cima!</h3>
-
-<p>Isso me ajuda a saber que estou no caminho certo e motiva a continuar partilhando conhecimento com a comunidade.</p>
-
-<a href="https://github.com/DarioSAndrade" target="_blank">
-  <img alt="GitHub stars" src="https://img.shields.io/github/stars/DarioSAndrade?style=social" />
-</a>
-
-</div>
 
 ---
 
