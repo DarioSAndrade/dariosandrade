@@ -265,4 +265,4 @@ Tenho mais de duas décadas de experiência na área de tecnologia, liderando ti
 
 📊 Estatísticas do GitHub
 <div align="center"> <table> <tr> <td align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dariosandrade&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br" alt="Estatísticas de GitHub de Dario Andrade" height="200" /> </td> <td align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariosandrade&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=10" alt="Tecnologias mais usadas" height="200" /> </td> </tr> </table> </div>
-
+<img src="https://github.com/DarioSAndrade/dariosandrade/blob/master/dario-assets/main/dariogit.png" alt="Deixe uma estrela" width="300"/>
