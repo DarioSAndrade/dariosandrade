@@ -263,4 +263,21 @@ Tenho mais de duas décadas de experiência na área de tecnologia, liderando ti
     />
 </p>
 
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DarioSAndrade/dario-assets/main/star-support.gif" alt="Deixe uma estrela" width="300"/>
+
+<h3>Se curtiu este conteúdo, dá uma ⭐ estrela lá em cima!</h3>
+
+<p>Isso me ajuda a saber que estou no caminho certo e motiva a continuar partilhando conhecimento com a comunidade.</p>
+
+<a href="https://github.com/DarioSAndrade" target="_blank">
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/DarioSAndrade?style=social" />
+</a>
+
+</div>
+
+---
 
